@@ -1,0 +1,11 @@
+{
+    "token": "Put-Token-Here",
+    "prefix": "!",
+    "color": "#2b2d31",
+    "captcha" : {
+        "channel": "Channel-Id",
+        "roles": ["Role-Id"] ,
+        "time": 60,
+        "nombreTest": 3
+    }
+}

@@ -1,0 +1,8 @@
+{
+  "name": "captcha-bot",
+  "author": "nekrxs.",
+  "dependencies": {
+    "discord.js": "^14.13.0",
+    "canvas": "^2.11.2"
+  }
+}
